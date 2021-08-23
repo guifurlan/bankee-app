@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "301096829668",
+    "firebase_url": "https://bankee-app.firebaseio.com",
+    "project_id": "bankee-app",
+    "storage_bucket": "bankee-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301096829668:android:44fe631097c7e882",
+        "android_client_info": {
+          "package_name": "com.bankee"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "301096829668-o3pqj1n25rmtvcbm9454hci6fhfkci0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.bankee",
+            "certificate_hash": "c246b03383a5315271375a1803c8708a1cef66f8"
+          }
+        },
+        {
+          "client_id": "301096829668-2ab842s0b3uno3k6vvks9ctlali0f7to.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDRfeOxdzKX6DlB1j0xnkpNPKd8vJgpEqc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "301096829668-2ab842s0b3uno3k6vvks9ctlali0f7to.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

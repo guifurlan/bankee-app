@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary_dark">#04898f</color>
+    <color name="bankee_default">#02ADB5</color>
+    <color name="bankee_default_dark">#097e5b</color>
+    <color name="bankee_action_bar">#04898f</color>
+</resources>
