@@ -1,5 +1,6 @@
 # bankee-app
-Android application that allows users to consult bank rates and exchange rates using APIs from the central bank of Brazil
+Android application that allows users to consult bank rates and exchange rates using APIs from the Central Bank of Brazil
+Project winner of Cidadata 2018 - tech challenge organized by the Central Bank of Brazil
 
 **Technology:** React native
 
